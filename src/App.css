@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.check{
+  text-decoration: line-through;
+}
+
+
+body {
+  background-color: cadetblue;
+}
+.container {
+  margin-top: 6%;
+}
